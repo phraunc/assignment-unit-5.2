@@ -2,7 +2,6 @@ header {
     background-color: darkblue;
     color: cyan;
     text-align: center;
-
 }
 
 p {
@@ -10,7 +9,6 @@ p {
 }
 
 body {
-
 
     background-image: url("record.png");
     padding: 1em;
